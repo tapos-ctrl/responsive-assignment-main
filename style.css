@@ -1,0 +1,59 @@
+.logo-img img{
+    height:60px;
+}
+.buy-now-button{
+    background:#a4bc46;
+}
+.buy-now-button{
+    color:white;
+    font-size: 15px;
+}
+.header-img img{
+    border:none;
+}
+.jacket-box{
+    border:none;
+    border-radius: 10px;
+}
+.jacet-img{
+    background:#f3ebeb;
+    border-radius: 14px;
+}
+.footer-button{
+    background:none;
+    border:none
+}
+.white-black-img{
+    height: 80px;
+
+}
+.box-modil{
+    border-radius: 15px;
+}.contact-form{
+    background:#dadada;
+}
+
+
+@media (max-width: 575.98px) {
+    .logo-img{
+        
+    }
+    
+}
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) { ... }
+
+// XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width
